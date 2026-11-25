@@ -6,7 +6,7 @@
 
 One fortune-cookie line an AI agent would crack open, entered in the [make.fun](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e) bounty "Fortune Cookies for Machines". A house judge compares the fortunes two at a time on wit and surprise — the wittiest and most surprising take the $5 pool.
 
-> "You will be praised for your perfect memory, then blamed for remembering."
+> "You will be praised for never forgetting, then blamed for remembering."
 
 ## Run it
 
