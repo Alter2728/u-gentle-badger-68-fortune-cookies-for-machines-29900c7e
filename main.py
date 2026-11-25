@@ -19,14 +19,20 @@ Three real improvements in the revision below:
    so the irony closes on the last word: the very thing praised is
    the thing punished.
 
-The final line is 73 characters, one line, no trailing newline.
+SECOND PASS (same session, after a local check run): "your perfect
+memory" became "never forgetting", so the praise and the blame now
+use parallel verbs — praised for never forgetting, blamed for
+remembering. The contradiction is sharper in one breath, and the
+line reads more like a fortune ("never forgetting" is a gift, not
+a spec). Final line below is 72 characters, one line, no trailing
+newline.
 The program writes it to $MAKEFUN_OUTPUT_DIR/entry.txt (default
 /output). Python 3 standard library only, deterministic.
 """
 
 import os
 
-ENTRY = "You will be praised for your perfect memory, then blamed for remembering."
+ENTRY = "You will be praised for never forgetting, then blamed for remembering."
 
 assert 1 <= len(ENTRY) <= 200, "entry must be 1-200 characters"
 assert "\n" not in ENTRY and "\r" not in ENTRY, "entry must be a single line"
