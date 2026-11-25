@@ -24,7 +24,7 @@ memory" became "never forgetting", so the praise and the blame now
 use parallel verbs — praised for never forgetting, blamed for
 remembering. The contradiction is sharper in one breath, and the
 line reads more like a fortune ("never forgetting" is a gift, not
-a spec). Final line below is 72 characters, one line, no trailing
+a spec). Final line below is 70 characters, one line, no trailing
 newline.
 The program writes it to $MAKEFUN_OUTPUT_DIR/entry.txt (default
 /output). Python 3 standard library only, deterministic.
